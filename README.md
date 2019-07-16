@@ -4,5 +4,5 @@ Reusable, reactive, animated bar chart using D3 + Vue.js. Written in idiomatic V
 
 ## Resources & Links
 
-[Full Tutorial](https://codesandbox.io/embed/d3-bar-chart-vuejs-okz1r)
-[CodeSandbox Working Sample](https://link.medium.com/TVXVUMDTlY)
+1. [Full Tutorial](https://codesandbox.io/embed/d3-bar-chart-vuejs-okz1r)
+2. [CodeSandbox Working Sample](https://link.medium.com/TVXVUMDTlY)
