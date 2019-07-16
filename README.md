@@ -2,7 +2,7 @@
 
 Reusable, reactive, animated bar chart using D3 + Vue.js. Written in idiomatic Vue, rather than D3 syntax.
 
-![Demo](https://miro.medium.com/max/640/1*GJR5a7cVUjMocWmuHd_8Yg.gif)
+![Demo](https://i.imgur.com/jycLEpB.gif)
 
 ## Resources & Links
 
